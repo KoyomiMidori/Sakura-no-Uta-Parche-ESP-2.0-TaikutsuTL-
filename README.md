@@ -1,4 +1,4 @@
-# Traducción al español de Sakura no Uta (Edición Décimo Aniversario). Este parche fue realizado por Taikutsu Translations y 07th Inquisition.
+# Traducción al español de Sakura no Uta (Edición Décimo Aniversario).
 
 <div align="center">
 
